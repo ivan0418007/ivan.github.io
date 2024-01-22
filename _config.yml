@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 title: ivan's homepage
 description: test pages
+markdown: kramdown
+url: "https://ivan0418007.github.io"
