@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jan 2024 17:16:11 +0800</lastBuildDate>
+    <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Mon, 22 Jan 2024 17:16:11 +0800</pubDate>
+      <guid>http://example.org/posts/test/</guid>
+      <description>This is our tech blog in English. Chinese version is PLCT-Weekly. If you have questions or sugguests, feel free to open an issue.&#xA;PLCT Monthly (in English) 2023 / 12 / 11 / 10 / 09 / 08 / 07 / 06 / 05 / 04 / 03 / 02 / 01&#xA;2022 / 12 / 11 / 10 / 09&#xA;008 This Month in PLCT (September 1, 2022) Wei Wu, et.</description>
+    </item>
+  </channel>
+</rss>
